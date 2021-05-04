@@ -1,0 +1,36 @@
+.holder{
+    height: 100vh;
+}
+  
+  .text-wrapper {
+    position: relative;
+    padding-top: 0.1em;
+    padding-right: 0.05em;
+    padding-bottom: 0.15em;
+  }
+  
+  .line {
+    /* opacity: 0; */
+    height: 0;
+    width: 3px;
+    background-color: #fff;
+    float: left;
+  }
+  
+  .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+  .visibletext{
+    color: #fff;
+  }
+
+  span{
+    color: #00000000;
+  }
+
+.invisiblebutton{
+
+  opacity: 0;
+}

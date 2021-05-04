@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Page Not Found - Daniel Hiebeler</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Page not found">
+    <meta name="author" content="Daniel Hiebeler">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <link rel="icon" type="image/gif" href="../nc_assets/img/icon_home.gif">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../nc_assets/css/general.css">
+    <link rel="stylesheet" href="../nc_assets/css/pagenotfound.css">
+</head>
+
+<body>
+
+    <?php include "../nc_assets/php/navbar.php"; ?>
+
+    <section class="holder d-flex justify-content-center align-items-center">
+        <div class=" container justify-content-center align-items-center">
+            <div class="row justify-content-center">
+                <div class="text-center">
+                    <span class="text-wrapper">
+                        <span class="letters">404, page not found. </span>
+                        <span class="line line1"></span>
+                    </span>
+                </div>
+
+            </div>
+
+            <div class="row button-holder justify-content-center">
+                <button onclick="location.href='https://daniebeler.com';" type="button"
+                    class="btn btn-outline-light mt-4 invisiblebutton">Go Back</button> </div>
+        </div>
+    </section>
+
+    <script src="../nc_assets/js/main.js"></script>
+
+    <script>
+    window.onload = function() {
+
+        fadebutton();
+
+        function fadebutton() {
+            setTimeout(function() {
+                $('.invisiblebutton').animate({
+                    opacity: 1
+                }, 1000);
+            }, 3600);
+        }
+
+        var words = $('.letters').text().split('');
+        var total = words.length;
+        $('.letters').empty();
+        for (index = 0; index < total; index++) {
+            $('.letters').append($("<span /> ").addClass("letter" + index).text(words[index]));
+            $('.line').animate({
+                height: $('.letter0').height()
+            }, 500);
+            task(index);
+        }
+
+        function task(i) {
+            setTimeout(function() {
+                // Add tasks to do 
+                $('.letter' + i).addClass("visibletext");
+                $('.line').css('-webkit-transform', "translateX(" + $('.letter0').width() * i + "px)");
+            }, 100 * i + 1500);
+        }
+    };
+    </script>
+
+</body>
+
+</html>

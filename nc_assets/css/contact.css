@@ -1,0 +1,28 @@
+.page {
+  min-height: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: linear-gradient(45deg, #00edcd, #0182f7);
+}
+
+.contact-header{
+  color: #01afe6;
+}
+
+.btn-style{
+  color: #01afe6;
+  border-color: #01afe6;
+}
+
+.btn-style:hover, .btn-style:focus, .btn-style:active, .btn-style.active, .open>.dropdown-toggle.btn-style {
+  color: #fff;
+  background-color: #01afe6;
+  border-color: #01afe6;
+}
+
+.ball {
+  position: fixed;
+  border-radius: 100%;
+  opacity: 1;
+  z-index: 1;
+}
