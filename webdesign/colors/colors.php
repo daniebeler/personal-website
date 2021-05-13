@@ -7,8 +7,8 @@
     <meta name="description" content="Discover beautiful colors.">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/gif" href="../../nc_assets/img/icon_home.gif">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="icon" type="image/gif" href="../../nc_assets/img/logo.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/classic.min.css" />
     <link rel="stylesheet" href="../../nc_assets/css/general.css">
     <link rel="stylesheet" href="../../nc_assets/css/colors.css">
@@ -25,13 +25,12 @@
                     Color palettes
                 </h1>
             </div>
-            <div class="row justify-content-center align-items-center no-gutters quote-row mb-5">
-                <h3 class="text-center">
-                    "There are harmonies and contrasts hidden in colors which automatically work together" <span class="vincent"> – Vincent van Gogh</span>
-                </h3>
-                <h5 class="">
-
-                </h5>
+            <div class="row justify-content-center align-items-center g-0 quote-row mb-5">
+                <div class="col">
+                    <h3 class="text-center">
+                        "There are harmonies and contrasts hidden in colors which automatically work together" <span class="vincent"> – Vincent van Gogh</span>
+                    </h3>
+                </div>
             </div>
         </div>
     </section>
@@ -133,7 +132,7 @@
 
             var z =
                 $('<div/>')
-                .addClass("row text-center color-row pt-5 pb-5 no-gutters clone" + (i + 1));
+                .addClass("row text-center color-row pt-5 pb-5 g-0 clone" + (i + 1));
 
             z.append(
                 $('<div/>')

@@ -5,15 +5,14 @@
     <title>Daniel Hiebeler</title>
     <link rel="icon" type="image/png" href="nc_assets/img/logo.png">
     <meta charset="utf-8">
-    <meta name="description"
-        content="This is my personal website and portfolio. Here you will find my projects and something about myself">
+    <meta name="description" content="This is my personal website and portfolio. Here you will find my projects and something about myself">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-    <link rel="stylesheet" href="nc_assets/css/home.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="nc_assets/css/general.css">
+    <link rel="stylesheet" href="nc_assets/css/home.css">
+    
 
 </head>
 
@@ -37,7 +36,7 @@
                 </h1>
             </div>
             <div class="row justify-content-center">
-                <div class="display-4 mb-4" id='status'>
+                <div style="text-align: center;" class="display-4 mb-4" id='status'>
                     Sailor
                 </div>
             </div>
@@ -66,10 +65,11 @@
                             I love all kinds of programming, with passion in mobile game development. I also like online
                             challenges like TryHackMe or HackerRank. Especially OSINT challenges are a lot of fun...
                         </p>
-                        <div class="row justify-content-center pt-3">
-                            <a data-aos="zoom-in-up" href="https://daniebeler.com/about"
-                                class="btn_general btn_light">More
-                                Information</a>
+                        <div class="row pt-3">
+                            <div class="d-flex col justify-content-center">
+                                <a data-aos="zoom-in-up" href="https://daniebeler.com/about" class="btn_general btn_light">More
+                                    Information</a>
+                            </div>
                         </div>
                     </div>
 
@@ -94,8 +94,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/reflextest.png">
                         <div>
                             <img class="img" src="nc_assets/img/reflextest.png" alt="Icon of ReflexTest">
-                            <div class="m-3 img-overlay img-reflextest d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#reflextest';">
+                            <div class="m-3 img-overlay img-reflextest d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#reflextest';">
                                 <div class="overlay-txt">Reflextest</div>
                             </div>
                         </div>
@@ -108,8 +107,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/speed-clicker.png">
                         <div>
                             <img class="img" src="nc_assets/img/speed-clicker.png" alt="Icon of Speed Clicker">
-                            <div class="m-3 img-overlay img-speedclicker d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#speedclicker';">
+                            <div class="m-3 img-overlay img-speedclicker d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#speedclicker';">
                                 <div class="overlay-txt">Speed Clicker</div>
                             </div>
                         </div>
@@ -122,8 +120,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/21.png">
                         <div>
                             <img class="img" src="nc_assets/img/21.png" alt="Icon of Twentyone">
-                            <div class="m-3 img-overlay img-twentyone d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#twentyone';">
+                            <div class="m-3 img-overlay img-twentyone d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#twentyone';">
                                 <div class="overlay-txt">Twentyone</div>
                             </div>
                         </div>
@@ -136,8 +133,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/mine-boy.png">
                         <div>
                             <img class="img" src="nc_assets/img/mine-boy.png" alt="Icon of MineBoy">
-                            <div class="m-3 img-overlay img-mineboy d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#mineboy';">
+                            <div class="m-3 img-overlay img-mineboy d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#mineboy';">
                                 <div class="overlay-txt">MineBoy</div>
                             </div>
                         </div>
@@ -150,8 +146,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/toggle-together.png">
                         <div>
                             <img class="img" src="nc_assets/img/toggle-together.png" alt="Icon of Toggle Together">
-                            <div class="m-3 img-overlay img-toggletogether d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#toggletogether';">
+                            <div class="m-3 img-overlay img-toggletogether d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#toggletogether';">
                                 <div class="overlay-txt">Toggle Together</div>
                             </div>
                         </div>
@@ -164,8 +159,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/justwatchad.png">
                         <div>
                             <img class="img" src="nc_assets/img/justwatchad.png" alt="Icon of Just Watch Ad">
-                            <div class="m-3 img-overlay img-justwatchad d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#justwatchad';">
+                            <div class="m-3 img-overlay img-justwatchad d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#justwatchad';">
                                 <div class="overlay-txt">Just Watch Ad</div>
                             </div>
                         </div>
@@ -178,8 +172,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/parkingjam.png">
                         <div>
                             <img class="img" src="nc_assets/img/parkingjam.png" alt="Icon of Parking Jam">
-                            <div class="m-3 img-overlay img-parkingjam d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#parkingjam';">
+                            <div class="m-3 img-overlay img-parkingjam d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#parkingjam';">
                                 <div class="overlay-txt">Parking Jam</div>
                             </div>
                         </div>
@@ -192,8 +185,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/wrongway.png">
                         <div>
                             <img class="img" src="nc_assets/img/wrongway.png" alt="Icon of Wrong Way">
-                            <div class="m-3 img-overlay img-wrongway d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#wrongway';">
+                            <div class="m-3 img-overlay img-wrongway d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#wrongway';">
                                 <div class="overlay-txt">Wrong Way</div>
                             </div>
                         </div>
@@ -206,8 +198,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/balance.png">
                         <div>
                             <img class="img" src="nc_assets/img/balance.png" alt="Icon of Balance">
-                            <div class="m-3 img-overlay img-balance d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://daniebeler.com/games#balance';">
+                            <div class="m-3 img-overlay img-balance d-flex align-items-center justify-content-center" onclick="location.href='https://daniebeler.com/games#balance';">
                                 <div class="overlay-txt">Balance - The Game</div>
                             </div>
                         </div>
@@ -227,8 +218,7 @@
                         <source type="image/jpeg" srcset="nc_assets/img/dailytasks.png">
                         <div>
                             <img class="img" src="nc_assets/img/dailytasks.png" alt="Icon of Daily Tasks">
-                            <div class="m-3 img-overlay img-dailytasks d-flex align-items-center justify-content-center"
-                                onclick="location.href='https://play.google.com/store/apps/details?id=com.daniebeler.dailytasks';">
+                            <div class="m-3 img-overlay img-dailytasks d-flex align-items-center justify-content-center" onclick="location.href='https://play.google.com/store/apps/details?id=com.daniebeler.dailytasks';">
                                 <div class="overlay-txt">Daily Tasks</div>
                             </div>
                         </div>
@@ -236,8 +226,10 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center" data-aos="zoom-in-up">
-                <a href="https://daniebeler.com/games" class="btn_general btn_dark">More Information</a>
+            <div class="row" data-aos="zoom-in-up">
+                <div class="d-flex col justify-content-center">
+                    <a href="https://daniebeler.com/games" class="btn_general btn_dark">More Information</a>
+                </div>
             </div>
         </div>
     </section>
@@ -249,7 +241,7 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
-    AOS.init();
+        AOS.init();
     </script>
 
 </body>
