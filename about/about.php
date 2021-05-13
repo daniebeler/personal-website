@@ -7,7 +7,7 @@
     <meta name="description" content="Some informations about me.">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="../nc_assets/img/logo.png">
+    <link rel="icon" type="image/webp" href="../nc_assets/img/logo.webp">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="../nc_assets/css/general.css">
@@ -188,98 +188,52 @@
             </div>
             <div class="row">
                 <div class="col-6 col-lg-4 pt-3 pb-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/hackerrank.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/hackerrank.png">
-                            <a class="m-3 img-overlay img-hackerrank d-flex align-items-center justify-content-center"
-                                href="https://www.hackerrank.com/daniebeler?hr_r=1" target="_blank">
-                                <div class="overlay-txt">visit HackerRank</div>
-                            </a>
-                        </div>
-                    </picture>
+                    <img class="img" src="../nc_assets/img/hackerrank.webp">
+                    <a class="m-3 img-overlay img-hackerrank d-flex align-items-center justify-content-center" href="https://www.hackerrank.com/daniebeler?hr_r=1" target="_blank">
+                        <div class="overlay-txt">visit HackerRank</div>
+                    </a>
                 </div>
 
                 <div class="col-6 col-lg-4 pt-3 pt-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/codewars.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/codewars.png">
-                            <a class="m-3 img-overlay img-codewars d-flex align-items-center justify-content-center"
-                                href="https://www.codewars.com/users/daniebeler" target="_blank">
-                                <div class="overlay-txt">visit Codewars</div>
-                            </a>
-                        </div>
-                    </picture>
+                    <img class="img" src="../nc_assets/img/codewars.webp">
+                    <a class="m-3 img-overlay img-codewars d-flex align-items-center justify-content-center" href="https://www.codewars.com/users/daniebeler" target="_blank">
+                        <div class="overlay-txt">visit Codewars</div>
+                    </a>
                 </div>
 
                 <div class="col-6 col-lg-4 pt-3 pb-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/tryhackme.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/tryhackme.png">
-                            <a class="m-3 img-overlay img-tryhackme d-flex align-items-center justify-content-center"
-                                href="https://tryhackme.com/p/daniebeler" target="_blank">
-                                <div class="overlay-txt">visit TryHackMe</div>
-                            </a>
-                        </div>
-                    </picture>
-                </div>
-                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/hackthebox.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/hackthebox.png">
-                            <a class="m-3 img-overlay img-htb d-flex align-items-center justify-content-center"
-                                href="https://app.hackthebox.eu/users/483775" target="_blank">
-                                <div class="overlay-txt">visit HackTheBox</div>
-                            </a>
-                        </div>
-                    </picture>
-                </div>
-                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/chess.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/chess.png">
-                            <a class="m-3 img-overlay img-chess d-flex align-items-center justify-content-center"
-                                href="https://www.chess.com/member/daniebeler" target="_blank">
-                                <div class="overlay-txt">visit Chess.com</div>
-                            </a>
-                        </div>
-                    </picture>
-                </div>
-                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/git.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/git.png">
-                            <a class="m-3 img-overlay img-git d-flex align-items-center justify-content-center"
-                                href="https://github.com/daniebeler" target="_blank">
-                                <div class="overlay-txt-git">visit GitHub</div>
-                            </a>
-                        </div>
-                    </picture>
+                    <img class="img" src="../nc_assets/img/tryhackme.webp">
+                    <a class="m-3 img-overlay img-tryhackme d-flex align-items-center justify-content-center" href="https://tryhackme.com/p/daniebeler" target="_blank">
+                        <div class="overlay-txt">visit TryHackMe</div>
+                    </a>
                 </div>
 
                 <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <picture class="d-flex justify-content-center">
-                        <!--<  source type="image/webp" srcset="../nc_assets/img/21.webp">-->
-                        <source type="image/png" srcset="../nc_assets/img/insta.png">
-                        <div>
-                            <img class="img" src="../nc_assets/img/insta.png">
-                            <a class="m-3 img-overlay img-insta d-flex align-items-center justify-content-center"
-                                href="https://www.instagram.com/daniebeler" target="_blank">
-                                <div class="overlay-txt">visit Instagram</div>
-                            </a>
-                        </div>
-                    </picture>
+                    <img class="img" src="../nc_assets/img/hackthebox.webp">
+                    <a class="m-3 img-overlay img-htb d-flex align-items-center justify-content-center" href="https://app.hackthebox.eu/users/483775" target="_blank">
+                        <div class="overlay-txt">visit HackTheBox</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/chess.webp">
+                    <a class="m-3 img-overlay img-chess d-flex align-items-center justify-content-center" href="https://www.chess.com/member/daniebeler" target="_blank">
+                        <div class="overlay-txt">visit Chess.com</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/git.webp">
+                    <a class="m-3 img-overlay img-git d-flex align-items-center justify-content-center" href="https://github.com/daniebeler" target="_blank">
+                        <div class="overlay-txt-git">visit GitHub</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/insta.webp">
+                    <a class="m-3 img-overlay img-insta d-flex align-items-center justify-content-center" href="https://www.instagram.com/daniebeler" target="_blank">
+                        <div class="overlay-txt">visit Instagram</div>
+                    </a>
                 </div>
 
             </div>
@@ -293,7 +247,7 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
-    AOS.init();
+        AOS.init();
     </script>
 </body>
 

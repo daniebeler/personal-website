@@ -7,7 +7,7 @@
     <meta name="description" content="Create and discover beautiful gradients.">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/gif" href="../../nc_assets/img/logo.png">
+    <link rel="icon" type="image/webp" href="../../nc_assets/img/logo.webp">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/classic.min.css" />
