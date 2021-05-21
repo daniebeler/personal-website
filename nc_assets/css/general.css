@@ -36,6 +36,15 @@ body * {
   background-color: black;
 }
 
+.not-draggable{
+  user-drag: none; 
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+
 .active-nav-item {
   padding: 10px;
   padding-left: 20px;
@@ -189,7 +198,7 @@ body * {
 .animated-icon3 span {
   display: block;
   position: absolute;
-  height: 3px;
+  height: 4px;
   width: 100%;
   border-radius: 9px;
   opacity: 1;

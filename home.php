@@ -27,7 +27,6 @@
 
     </div>
 
-
     <section class=" page_1 d-flex align-items-center justify-content-center panel" data-color="grey">
         <div class="container">
             <div class="row justify-content-center">
@@ -40,9 +39,17 @@
                     Sailor
                 </div>
             </div>
-            <div class="align-items-end arrow-down-pos">
-                <div class="arrow-down"></div>
+        </div>
+
+        <div class="container fixed-bottom">
+            <div class="row">
+                <div class="col">
+                    <div class="arrow bounce">
+                        <img class="img-arrow-down not-draggable" src="nc_assets/img/arrow-down.svg" alt="Arrow down">
+                    </div>
+                </div>
             </div>
+
         </div>
 
     </section>
@@ -50,7 +57,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-auto d-flex align-items-center">
-                    <img class="m-4 img-logo" src="nc_assets/img/logo.webp" alt="Icon of ReflexTest">
+                    <img class="m-4 img-logo not-draggable" src="nc_assets/img/logo.webp" alt="Icon of ReflexTest">
                 </div>
                 <div class="d-flex col align-items-center">
                     <div>
@@ -68,9 +75,7 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
-
             </div>
         </div>
     </section>

@@ -15,7 +15,7 @@
                             <a class="mail-link" href = "mailto: hiebeler.daniel@gmail.com">hiebeler.daniel@gmail.com</a>
                         </p>
 
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/daniebeler/"><img src="https://daniebeler.com/nc_assets/img/instagram.svg" alt="Instagram" width="48" height="48" /></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/daniebeler/"><img class="not-draggable" src="https://daniebeler.com/nc_assets/img/instagram.svg" alt="Instagram" width="48" height="48" /></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-md-6">

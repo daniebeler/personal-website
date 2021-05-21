@@ -42,7 +42,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/speed-clicker.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/speed-clicker.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -68,7 +68,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/reflextest.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/reflextest.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -92,7 +92,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/21.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/21.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -118,7 +118,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/mine-boy.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/mine-boy.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -146,7 +146,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/toggle-together.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/toggle-together.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -172,7 +172,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/justwatchad.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/justwatchad.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -196,7 +196,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/parkingjam.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/parkingjam.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -223,7 +223,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/wrongway.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/wrongway.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
@@ -248,7 +248,7 @@
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">
                     <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games" src="../nc_assets/img/balance.webp" alt="">
+                        <img class="picture-games not-draggable" src="../nc_assets/img/balance.webp" alt="">
                     </div>
                     <div class="col-md-8 d-flex flex-column p-4">
                         <div>
