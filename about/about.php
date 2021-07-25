@@ -236,6 +236,13 @@
                     </a>
                 </div>
 
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/geocaching.webp">
+                    <a class="m-3 img-overlay img-geocaching d-flex align-items-center justify-content-center" href="https://www.geocaching.com/p/?guid=555c891d-21dd-46d3-bb35-49bb06bec867" target="_blank">
+                        <div class="overlay-txt">visit Geocaching</div>
+                    </a>
+                </div>
+
             </div>
         </div>
     </section>

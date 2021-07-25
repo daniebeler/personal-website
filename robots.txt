@@ -1,1 +1,1 @@
-Sitemap: https://daniebeler.com/sitemap
+Sitemap: https://daniebeler.com/sitemap.xml

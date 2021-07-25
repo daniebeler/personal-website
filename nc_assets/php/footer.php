@@ -12,7 +12,7 @@
                             <br>
                             6890 Lustenau, Austria
                             <br>
-                            <a class="mail-link" href = "mailto: hiebeler.daniel@gmail.com">hiebeler.daniel@gmail.com</a>
+                            <a class="mail-link" href="mailto: hiebeler.daniel@gmail.com">hiebeler.daniel@gmail.com</a>
                         </p>
 
                         <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/daniebeler/"><img class="not-draggable" src="https://daniebeler.com/nc_assets/img/instagram.svg" alt="Instagram" width="48" height="48" /></a>
