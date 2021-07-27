@@ -34,10 +34,13 @@
                     I am Daniel Hiebeler
                 </h1>
             </div>
-            <div class="row justify-content-center">
-                <div style="text-align: center;" class="display-4 mb-4" id='status'>
+            <div class="row justify-content-center text-center">
+                <!-- <div style="text-align: center;" class="display-4 mb-4" id='status'>
                     Sailor
-                </div>
+                </div> -->
+
+                <p class="hero-subtitle"><span class="typed" data-typed-items="Sailor, Programmer, Game Developer, HTL Student"></span></p>
+
             </div>
         </div>
 
@@ -191,6 +194,7 @@
 
     <?php include "nc_assets/php/footer.php"; ?>
 
+    <script src="nc_assets/typed.js/typed.min.js"></script>
     <script src="nc_assets/js/main.js"></script>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
