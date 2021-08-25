@@ -123,3 +123,29 @@
 .color-transparent {
   background-color: transparent;
 }
+
+
+
+.holder {
+  position: relative;
+  background-color: var(--my_light);
+  border-radius: 20px;
+  color: var(--my_dark);
+  padding-top: 40px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+  margin-bottom: 50px;
+  box-shadow: 4px 12px 40px 6px rgba(0, 0, 0, 0.09);
+}
+
+.picture-games {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 20px;
+}
+
+ul{
+  padding-bottom: 0;
+  margin: 0;
+}

@@ -40,142 +40,88 @@
         <div class="container">
             <div class="row mt-5 mb-5" data-aos="zoom-in-up">
                 <h2 class="col">
-                    What I have learned from my projects
+                    Skills
                 </h2>
             </div>
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Speed Clicker
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>The basics of the languages Java and XML</li>
-                        <li>Android Studio</li>
-                        <li>How to implement fonts and sounds</li>
-                    </ul>
-                </div>
-            </div>
 
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Reflextest
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>Release Apps/Games on Google Play Store</li>
-                    </ul>
-                </div>
-            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <div class="container holder">
+                        <div class="row">
+                                <div class="col d-flex flex-column align-items-center">
+                                    <h2 class="mb-3">
+                                        Unity
+                                    </h2>
+                                </div>
+                                
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 d-flex flex-column align-items-center">
+                                    <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
+                                </div>
+                                <div class="col-md-6 d-flex flex-column justify-content-center">
+                                        <div class="row justify-content-center">
+                                            <ul style="list-style-type:none;">
+                                                <li>Used in:</li>
+                                                <li>MineBoy</li>
+                                                <li>Wrong Way</li>
+                                                <li>Parking Jam</li>
+                                                <li>Balance</li>
+                                                <li>1D Pong</li>
+                                                <li>Risky Rocket</li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <p class="mt-3">
+                                        <b>Unity</b> is a 3D/2D game engine and powerful cross-platform IDE for developers.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Twentyone
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>Another method to handle more pages/layouts</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        MineBoy
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>Work with the game-engine Unity</li>
-                        <li>The programming language C#</li>
-                        <li>Develop graphics with Krita</li>
-                        <li>Git (Sourcetree)</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Toggle Together
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>Connect the Android App with an online-database</li>
-                        <li>Store data on "Firebase"</li>
-                    </ul>
+                    <div class="col-12 col-lg-6">
+                        <div class="container holder">
+                        <div class="row">
+                                <div class="col d-flex flex-column align-items-center">
+                                    <h2 class="mb-3">
+                                        Unity
+                                    </h2>
+                                </div>
+                                
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 d-flex flex-column align-items-center">
+                                    <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
+                                </div>
+                                <div class="col-md-6 d-flex flex-column justify-content-center">
+                                        <div class="row justify-content-center">
+                                            <ul style="list-style-type:none;">
+                                                <li>MineBoy</li>
+                                                <li>Wrong Way</li>
+                                                <li>Parking Jam</li>
+                                                <li>Balance</li>
+                                                <li>1D Pong</li>
+                                                <li>Risky Rocket</li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <p class="mt-3">
+                                        <b>Unity</b> is a 3D/2D game engine and powerful cross-platform IDE for developers. D/2D game engine and powerful cross-platform IDE for developers.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Just Watch Ad
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>Develop a Sign-In with the Google Play Services</li>
-                        <li>Show a leaderboard with all users on it</li>
-                        <li>The programming language Kotlin</li>
-                        <li>Show Ads using the advertising network "Google AdMob"</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Parking Jam
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>A lot of functions of Unity</li>
-                        <li>How to work with Vectors</li>
-                        <li>Implement AdMob to Unity</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        Wrong Way
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>Develop a 3D-game in Unity</li>
-                        <li>Render 3D-objects in Blender</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row mb-5" data-aos="zoom-in-up">
-                <div class="col-sm">
-                    <p>
-                        This Website you are looking at
-                    </p>
-                </div>
-                <div class="col-sm">
-                    <ul>
-                        <li>The languages HTML, CSS and JavaScript</li>
-                        <li>The framework Bootstrap</li>
-                        <li>How to implement external files</li>
-                        <li>Buy a webspace and a domain-name</li>
-                        <li>Host the webpage on "cPanel"</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
     </section>
 
     <section class="section-profiles panel" data-color="white">
