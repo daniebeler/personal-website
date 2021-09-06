@@ -39,83 +39,52 @@
     <section class="section-text panel" data-color="white">
         <div class="container">
             <div class="row mt-5 mb-5" data-aos="zoom-in-up">
-                <h2 class="col">
-                    Skills
-                </h2>
+                <div class="col">
+                    <h2>
+                        Skills
+                    </h2>
+                </div>
             </div>
 
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-lg-6">
-                        <div class="container holder">
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <div class="container holder">
                         <div class="row">
-                                <div class="col d-flex flex-column align-items-center">
-                                    <h2 class="mb-3">
-                                        Unity
-                                    </h2>
-                                </div>
-                                
+                            <div class="col d-flex flex-column">
+                                <h2 class="mb-3">
+                                    Unity
+                                </h2>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6 d-flex flex-column align-items-center">
-                                    <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
-                                </div>
-                                <div class="col-md-6 d-flex flex-column justify-content-center">
-                                        <div class="row justify-content-center">
-                                            <ul style="list-style-type:none;">
-                                                <li>Used in:</li>
-                                                <li>MineBoy</li>
-                                                <li>Wrong Way</li>
-                                                <li>Parking Jam</li>
-                                                <li>Balance</li>
-                                                <li>1D Pong</li>
-                                                <li>Risky Rocket</li>
-                                            </ul>
-                                        </div>
-                                </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
                             </div>
-                            <div class="row">
-                                <div class="col">
-                                    <p class="mt-3">
-                                        <b>Unity</b> is a 3D/2D game engine and powerful cross-platform IDE for developers.
-                                    </p>
+                            <div class="col d-flex flex-column justify-content-cente">
+                                <div class="row justify-content-center">
+                                    <p><b>Unity</b> is a 3D/2D game engine and powerful cross-platform IDE for developers.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
 
-                    <div class="col-12 col-lg-6">
-                        <div class="container holder">
+                <div class="col-12 col-lg-6">
+                    <div class="container holder">
                         <div class="row">
-                                <div class="col d-flex flex-column align-items-center">
-                                    <h2 class="mb-3">
-                                        Unity
-                                    </h2>
-                                </div>
-                                
+                            <div class="col d-flex flex-column">
+                                <h2 class="mb-3">
+                                    Android Studio
+                                </h2>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6 d-flex flex-column align-items-center">
-                                    <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
-                                </div>
-                                <div class="col-md-6 d-flex flex-column justify-content-center">
-                                        <div class="row justify-content-center">
-                                            <ul style="list-style-type:none;">
-                                                <li>MineBoy</li>
-                                                <li>Wrong Way</li>
-                                                <li>Parking Jam</li>
-                                                <li>Balance</li>
-                                                <li>1D Pong</li>
-                                                <li>Risky Rocket</li>
-                                            </ul>
-                                        </div>
-                                </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
                             </div>
-                            <div class="row">
-                                <div class="col">
-                                    <p class="mt-3">
-                                        <b>Unity</b> is a 3D/2D game engine and powerful cross-platform IDE for developers. D/2D game engine and powerful cross-platform IDE for developers.
-                                    </p>
+                            <div class="col d-flex flex-column justify-content-cente">
+                                <div class="row justify-content-center">
+                                    <p><b>Android Studio</b> is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.</p>
                                 </div>
                             </div>
                         </div>
