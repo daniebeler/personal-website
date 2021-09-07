@@ -47,20 +47,87 @@
             </div>
 
             <div class="row">
-                <div class="col-12 col-lg-6">
+
+                <div class="col-12 col-md-6">
+                    <div class="container holder holder-photoshop">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #00a9fc;">
+                                    Adobe Photoshop
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_photoshop.webp" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #001e35;">
+                                    <p><b>Adobe Photoshop</b> is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="container holder holder-illustrator">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #ff991e;">
+                                    Adobe Illustrator
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_illustrator.webp" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #350000;">
+                                    <p><b>Adobe Illustrator</b> is a vector graphics editor and design program developed and marketed by Adobe Inc.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="container holder holder-android-studio">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #21dc88;">
+                                    Android Studio
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_android_studio.webp" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #3086f1;">
+                                    <p><b>Android Studio</b> is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
                     <div class="container holder">
                         <div class="row">
                             <div class="col d-flex flex-column">
-                                <h2 class="mb-3">
+                                <h2>
                                     Unity
                                 </h2>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-auto d-flex flex-column">
-                                <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_unity.webp" alt="">
                             </div>
-                            <div class="col d-flex flex-column justify-content-cente">
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
                                 <div class="row justify-content-center">
                                     <p><b>Unity</b> is a 3D/2D game engine and powerful cross-platform IDE for developers.</p>
                                 </div>
@@ -69,28 +136,8 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-lg-6">
-                    <div class="container holder">
-                        <div class="row">
-                            <div class="col d-flex flex-column">
-                                <h2 class="mb-3">
-                                    Android Studio
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-auto d-flex flex-column">
-                                <img class="picture-games not-draggable" src="../nc_assets/img/unity.png" alt="">
-                            </div>
-                            <div class="col d-flex flex-column justify-content-cente">
-                                <div class="row justify-content-center">
-                                    <p><b>Android Studio</b> is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
+        </div>
     </section>
 
     <section class="section-profiles panel" data-color="white">

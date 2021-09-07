@@ -124,11 +124,7 @@
   background-color: transparent;
 }
 
-
-
 .holder {
-  position: relative;
-  background-color: var(--my_light);
   border-radius: 20px;
   color: var(--my_dark);
   padding-top: 40px;
@@ -136,7 +132,19 @@
   padding-bottom: 40px;
   padding-left: 30px;
   margin-bottom: 50px;
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+  box-shadow: rgba(0, 0, 0, 1) 0px 0px 0px 3px;
+}
+
+.holder-photoshop{
+  box-shadow: rgba(0, 169, 252, 1) 0px 0px 0px 3px;
+}
+
+.holder-illustrator{
+  box-shadow: rgba(255, 153, 30, 1) 0px 0px 0px 3px;
+}
+
+.holder-android-studio{
+  box-shadow: #21dc88 0px 0px 0px 3px;
 }
 
 .picture-games {
@@ -148,4 +156,8 @@
 ul{
   padding-bottom: 0;
   margin: 0;
+}
+
+.skills-text-col{
+  min-width: 150px;
 }
