@@ -38,32 +38,35 @@
     </section>
 
     <section class="games-bg panel" data-color="white">
-        <div class="container" id="speedclicker">
-            <div class="holder" data-aos="zoom-in-up">
-                <div class="row">
-                    <div class="col-md-4 d-flex justify-content-center align-items-center">
-                        <img class="picture-games not-draggable" src="../nc_assets/img/speed-clicker.webp" alt="">
+
+        <div class="container holder" id="speedclicker">
+            <div class="row">
+                <div class="col-auto d-flex justify-content-center align-items-center">
+                    <img class="picture-games not-draggable" src="../nc_assets/img/speed-clicker.webp" alt="">
+                </div>
+                <div class="col-auto d-flex justify-content-center align-items-center">
+                    <img class="picture-games not-draggable" src="../nc_assets/img/speed-clicker.webp" alt="">
+                </div>
+                <div class="col d-flex flex-column p-4">
+                    <div class="justify-content-center justify-content-md-start">
+                        <h2 class="mb-4">
+                            Speed Clicker
+                        </h2>
                     </div>
-                    <div class="col-md-8 d-flex flex-column p-4">
-                        <div>
-                            <div class="row justify-content-center justify-content-md-start">
-                                <h2 class="mb-4">
-                                    Speed Clicker
-                                </h2>
-                            </div>
-                            <p class="row">
-                                I released Speed Clicker in April 2018. It was my second project and is with over
-                                25.000
-                                downloads the most successful one.
-                            </p>
-                            <div class="row justify-content-start text-center text-md-left">
-                                <a href="https://play.google.com/store/apps/details?id=com.daniebeler.speed_clicker" target="_blank" class="btn_general btn_dark">Google Play Store</a>
-                            </div>
-                        </div>
+                    <p>
+                        I released Speed Clicker in April 2018. It was my second project and is with over
+                        25.000
+                        downloads the most successful one.
+                    </p>
+                    <div>
+                        <a href="https://play.google.com/store/apps/details?id=com.daniebeler.speed_clicker" target="_blank" class="btn_general btn_dark">Google Play Store</a>
                     </div>
                 </div>
             </div>
         </div>
+
+
+        
         <div class="container" id="reflextest">
             <div class="holder" data-aos="zoom-in-up">
                 <div class="row">

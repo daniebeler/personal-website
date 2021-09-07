@@ -22,7 +22,6 @@
   padding-bottom: 40px;
   padding-left: 30px;
   margin-bottom: 50px;
-  box-shadow: 4px 12px 40px 6px rgba(0, 0, 0, 0.09);
 }
 
 .games-bg {
@@ -60,4 +59,8 @@
 
 .color-transparent {
   background-color: transparent;
+}
+
+#speedclicker{
+  box-shadow: #00a7e6 0px 0px 0px 3px;
 }
