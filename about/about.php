@@ -38,7 +38,7 @@
 
     <section class="section-text panel" data-color="white">
         <div class="container">
-            <div class="row mt-5 mb-5" data-aos="zoom-in-up">
+            <div class="row mt-5 mb-5">
                 <div class="col">
                     <h2>
                         Skills
@@ -49,7 +49,7 @@
             <div class="row">
 
                 <div class="col-12 col-md-6">
-                    <div class="container holder holder-photoshop">
+                    <div class="container holder" style="box-shadow: #00a9fc 0px 0px 0px 3px;">
                         <div class="row">
                             <div class="col d-flex flex-column">
                                 <h2 style="color: #00a9fc;">
@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="col-12 col-md-6">
-                    <div class="container holder holder-illustrator">
+                    <div class="container holder" style="box-shadow: #ff991e 0px 0px 0px 3px;">
                         <div class="row">
                             <div class="col d-flex flex-column">
                                 <h2 style="color: #ff991e;">
@@ -93,7 +93,7 @@
                 </div>
 
                 <div class="col-12 col-md-6">
-                    <div class="container holder holder-android-studio">
+                    <div class="container holder" style="box-shadow: #21dc88 0px 0px 0px 3px;">
                         <div class="row">
                             <div class="col d-flex flex-column">
                                 <h2 style="color: #21dc88;">
@@ -115,7 +115,7 @@
                 </div>
 
                 <div class="col-12 col-md-6">
-                    <div class="container holder">
+                    <div class="container holder" style="box-shadow: #000 0px 0px 0px 3px;">
                         <div class="row">
                             <div class="col d-flex flex-column">
                                 <h2>
@@ -136,6 +136,105 @@
                     </div>
                 </div>
 
+                <div class="col-12 col-md-6">
+                    <div class="container holder" style="box-shadow: #8b12fc 0px 0px 0px 3px;">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #8b12fc;">
+                                    Bootstrap
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_bootstrap.webp" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #6e11f4;">
+                                    <p><b>Bootatrap</b> is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="container holder" style="box-shadow: #DD0031 0px 0px 0px 3px;">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #DD0031;">
+                                    Angular
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_angular.svg" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #C3002F;">
+                                    <p><b>Angular</b> is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="container holder" style="box-shadow: #3880ff 0px 0px 0px 3px;">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #3880ff;">
+                                    Ionic
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_ionic.webp" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #3880ff;">
+                                    <p><b>Ionic</b> is a complete open-source SDK for hybrid mobile app development created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="container holder" style="box-shadow: #f05033 0px 0px 0px 3px;">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2 style="color: #f05033;">
+                                    Git
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-auto mt-3 d-flex flex-column">
+                                <img class="picture-games not-draggable" src="../nc_assets/img/logo_git.png" alt="">
+                            </div>
+                            <div class="col d-flex mt-3 flex-column skills-text-col">
+                                <div class="row justify-content-center" style="color: #f05033;">
+                                    <p><b>Git</b> is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="container holder" style="box-shadow: #000 0px 0px 0px 3px;">
+                        <div class="row">
+                            <div class="col d-flex flex-column">
+                                <h2>
+                                    And many more...
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -143,53 +242,12 @@
     <section class="section-profiles panel" data-color="white">
 
         <div class="container">
-            <div class="row mt-5 mb-3" data-aos="zoom-in-up">
+            <div class="row mt-5 mb-3">
                 <h2 class="col">
                     Profiles
                 </h2>
             </div>
             <div class="row">
-                <div class="col-6 col-lg-4 pt-3 pb-3" data-aos="zoom-in-up">
-                    <img class="img" src="../nc_assets/img/hackerrank.webp">
-                    <a class="m-3 img-overlay img-hackerrank d-flex align-items-center justify-content-center" href="https://www.hackerrank.com/daniebeler?hr_r=1" target="_blank">
-                        <div class="overlay-txt">visit HackerRank</div>
-                    </a>
-                </div>
-
-                <div class="col-6 col-lg-4 pt-3 pt-3" data-aos="zoom-in-up">
-                    <img class="img" src="../nc_assets/img/codewars.webp">
-                    <a class="m-3 img-overlay img-codewars d-flex align-items-center justify-content-center" href="https://www.codewars.com/users/daniebeler" target="_blank">
-                        <div class="overlay-txt">visit Codewars</div>
-                    </a>
-                </div>
-
-                <div class="col-6 col-lg-4 pt-3 pb-3" data-aos="zoom-in-up">
-                    <img class="img" src="../nc_assets/img/tryhackme.webp">
-                    <a class="m-3 img-overlay img-tryhackme d-flex align-items-center justify-content-center" href="https://tryhackme.com/p/daniebeler" target="_blank">
-                        <div class="overlay-txt">visit TryHackMe</div>
-                    </a>
-                </div>
-
-                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <img class="img" src="../nc_assets/img/hackthebox.webp">
-                    <a class="m-3 img-overlay img-htb d-flex align-items-center justify-content-center" href="https://app.hackthebox.eu/users/483775" target="_blank">
-                        <div class="overlay-txt">visit HackTheBox</div>
-                    </a>
-                </div>
-
-                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <img class="img" src="../nc_assets/img/chess.webp">
-                    <a class="m-3 img-overlay img-chess d-flex align-items-center justify-content-center" href="https://www.chess.com/member/daniebeler" target="_blank">
-                        <div class="overlay-txt">visit Chess.com</div>
-                    </a>
-                </div>
-
-                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
-                    <img class="img" src="../nc_assets/img/git.webp">
-                    <a class="m-3 img-overlay img-git d-flex align-items-center justify-content-center" href="https://github.com/daniebeler" target="_blank">
-                        <div class="overlay-txt-git">visit GitHub</div>
-                    </a>
-                </div>
 
                 <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
                     <img class="img" src="../nc_assets/img/insta.webp">
@@ -202,6 +260,34 @@
                     <img class="img" src="../nc_assets/img/geocaching.webp">
                     <a class="m-3 img-overlay img-geocaching d-flex align-items-center justify-content-center" href="https://www.geocaching.com/p/?guid=555c891d-21dd-46d3-bb35-49bb06bec867" target="_blank">
                         <div class="overlay-txt">visit Geocaching</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/git.webp">
+                    <a class="m-3 img-overlay img-git d-flex align-items-center justify-content-center" href="https://github.com/daniebeler" target="_blank">
+                        <div class="overlay-txt-git">visit GitHub</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/hackerrank.webp">
+                    <a class="m-3 img-overlay img-hackerrank d-flex align-items-center justify-content-center" href="https://www.hackerrank.com/daniebeler?hr_r=1" target="_blank">
+                        <div class="overlay-txt">visit HackerRank</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/tryhackme.webp">
+                    <a class="m-3 img-overlay img-tryhackme d-flex align-items-center justify-content-center" href="https://tryhackme.com/p/daniebeler" target="_blank">
+                        <div class="overlay-txt">visit TryHackMe</div>
+                    </a>
+                </div>
+
+                <div class="col-6 col-lg-4 p-3" data-aos="zoom-in-up">
+                    <img class="img" src="../nc_assets/img/chess.webp">
+                    <a class="m-3 img-overlay img-chess d-flex align-items-center justify-content-center" href="https://www.chess.com/member/daniebeler" target="_blank">
+                        <div class="overlay-txt">visit Chess.com</div>
                     </a>
                 </div>
 

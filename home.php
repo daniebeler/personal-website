@@ -12,20 +12,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="nc_assets/css/general.css">
     <link rel="stylesheet" href="nc_assets/css/home.css">
-
-
 </head>
 
 <body>
 
     <?php include "nc_assets/php/navbar.php"; ?>
 
-    <div class="bg-1">
-
-    </div>
-    <div class="bg-2">
-
-    </div>
+    <div class="bg-1"></div>
+    <div class="bg-2"></div>
 
     <section class=" page_1 d-flex align-items-center justify-content-center panel" data-color="grey">
         <div class="container">
@@ -35,12 +29,7 @@
                 </h1>
             </div>
             <div class="row justify-content-center text-center">
-                <!-- <div style="text-align: center;" class="display-4 mb-4" id='status'>
-                    Sailor
-                </div> -->
-
                 <p class="hero-subtitle"><span class="typed" data-typed-items="Sailor, Programmer, Game Developer, HTL Student"></span></p>
-
             </div>
         </div>
 
@@ -52,9 +41,7 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
     </section>
     <section class="page_2 panel" data-color="grey">
         <div class="container">
@@ -64,7 +51,7 @@
                 </div>
                 <div class="d-flex col align-items-center">
                     <div>
-                        <p class="" data-aos="zoom-in-up">
+                        <p>
                             Welcome to my page! Here you will find some facts about me and you can get a small overview
                             of my projects.<br><br>
                             <strong>A bit about me:</strong> At the moment I am attending fourth grade of HTL Dornbirn.
@@ -73,7 +60,7 @@
                         </p>
                         <div class="row pt-3">
                             <div class="d-flex col justify-content-center">
-                                <a data-aos="zoom-in-up" href="https://daniebeler.com/about" class="btn_general btn_light">More
+                                <a href="https://daniebeler.com/about" class="btn_general btn_light">More
                                     Information</a>
                             </div>
                         </div>

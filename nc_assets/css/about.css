@@ -127,24 +127,9 @@
 .holder {
   border-radius: 20px;
   color: var(--my_dark);
-  padding-top: 40px;
-  padding-right: 30px;
-  padding-bottom: 40px;
-  padding-left: 30px;
-  margin-bottom: 50px;
-  box-shadow: rgba(0, 0, 0, 1) 0px 0px 0px 3px;
-}
-
-.holder-photoshop{
-  box-shadow: rgba(0, 169, 252, 1) 0px 0px 0px 3px;
-}
-
-.holder-illustrator{
-  box-shadow: rgba(255, 153, 30, 1) 0px 0px 0px 3px;
-}
-
-.holder-android-studio{
-  box-shadow: #21dc88 0px 0px 0px 3px;
+  padding: 30px;
+  margin-top: calc(var(--bs-gutter-x)/ 2);
+  margin-bottom: calc(var(--bs-gutter-x)/ 2);
 }
 
 .picture-games {
@@ -153,11 +138,10 @@
   border-radius: 20px;
 }
 
-ul{
-  padding-bottom: 0;
-  margin: 0;
-}
-
 .skills-text-col{
   min-width: 150px;
+}
+
+h2{
+  margin-bottom: 0;
 }
