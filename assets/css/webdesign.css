@@ -1,0 +1,77 @@
+.section-header {
+  position: relative;
+  height: 60vh;
+  padding-top: 50px;
+}
+
+.section-quote {
+  position: relative;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  color: var(--my_dark);
+}
+
+.header-container {
+  position: relative;
+  background: linear-gradient(45deg, #ec9f05, #ff4e00);
+}
+
+.section-text {
+  position: relative;
+  color: var(--my_dark);
+  padding: 50px;
+}
+
+.heading {
+  color: white;
+  font-size: 4.5rem;
+}
+
+.button-holder {
+  background-color: white;
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: 4px 12px 40px 6px rgba(0, 0, 0, 0.09);
+  margin-top: 20px;
+}
+
+.button-holder:hover {
+  cursor: pointer;
+}
+
+.quote-row {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 4px 12px 40px 6px rgba(0, 0, 0, 0.09);
+}
+
+.vincent {
+  display: inline-block;
+  font-size: 1rem;
+}
+
+.bg-1 {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  background: linear-gradient(45deg, #ec9f05, #ff4e00);
+}
+
+.bg-2 {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2;
+  background-color: var(--my_light);
+  transition: background-color 1s ease;
+}
+
+.color-white {
+  background-color: var(--my_light);
+}
+
+.color-transparent {
+  background-color: transparent;
+}

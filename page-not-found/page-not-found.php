@@ -8,15 +8,15 @@
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
-    <link rel="icon" type="image/gif" href="../nc_assets/img/icon_home.gif">
+    <link rel="icon" type="image/gif" href="../assets/img/icon_home.gif">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../nc_assets/css/general.css">
-    <link rel="stylesheet" href="../nc_assets/css/pagenotfound.css">
+    <link rel="stylesheet" href="../assets/css/general.css">
+    <link rel="stylesheet" href="../assets/css/pagenotfound.css">
 </head>
 
 <body>
 
-    <?php include "../nc_assets/php/navbar.php"; ?>
+    <?php include "../assets/php/navbar.php"; ?>
 
     <section class="holder d-flex justify-content-center align-items-center">
         <div class=" container justify-content-center align-items-center">
@@ -36,7 +36,7 @@
         </div>
     </section>
 
-    <script src="../nc_assets/js/main.js"></script>
+    <script src="../assets/js/main.js"></script>
 
     <script>
     window.onload = function() {

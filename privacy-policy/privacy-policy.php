@@ -7,16 +7,16 @@
     <meta name="description" content="Informations about the privacy policy.">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/gif" href="../nc_assets/img/icon_home.gif">
+    <link rel="icon" type="image/gif" href="../assets/img/icon_home.gif">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../nc_assets/css/privacy-policy.css">
-    <link rel="stylesheet" href="../nc_assets/css/wave.css">
-    <link rel="stylesheet" href="../nc_assets/css/general.css">
+    <link rel="stylesheet" href="../assets/css/privacy-policy.css">
+    <link rel="stylesheet" href="../assets/css/wave.css">
+    <link rel="stylesheet" href="../assets/css/general.css">
 </head>
 
 <body>
 
-    <?php include "../nc_assets/php/navbar.php"; ?>
+    <?php include "../assets/php/navbar.php"; ?>
 
     <section class="header-container" data-midnight="white">
         <div class="section-header row mx-auto align-items-center justify-content-center">
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <?php include "../nc_assets/php/wave.php"; ?>
+        <?php include "../assets/php/wave.php"; ?>
     </section>
 
     <section class="section-text">
@@ -401,9 +401,9 @@
         </div>
     </section>
 
-    <?php include "../nc_assets/php/footer.php"; ?>
+    <?php include "../assets/php/footer.php"; ?>
 
-    <script src="../nc_assets/js/main.js"></script>
+    <script src="../assets/js/main.js"></script>
 </body>
 
 </html>

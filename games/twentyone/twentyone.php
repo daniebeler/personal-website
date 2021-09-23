@@ -7,16 +7,16 @@
     <meta name="description" content="Get some information about the Android-Game 21">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/gif" href="../../nc_assets/img/icon_home.gif">
+    <link rel="icon" type="image/gif" href="../../assets/img/icon_home.gif">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../nc_assets/css/twentyone.css">
-    <link rel="stylesheet" href="../../nc_assets/css/general.css">
-    <link rel="stylesheet" href="../../nc_assets/css/general-games.css">
+    <link rel="stylesheet" href="../../assets/css/twentyone.css">
+    <link rel="stylesheet" href="../../assets/css/general.css">
+    <link rel="stylesheet" href="../../assets/css/general-games.css">
 </head>
 
 <body>
 
-    <?php include "../../nc_assets/php/navbar.php"; ?>
+    <?php include "../../assets/php/navbar.php"; ?>
 
     <div class="container-fluid">
         <section class="section-header row align-items-center justify-content-center">
@@ -49,9 +49,9 @@
                 <div class="row">
                     <div class="col-6 col-md-5 row justify-content-center">
                         <picture>
-                            <source type="image/webp" srcset="../../nc_assets/img/twentyone-12.webp">
-                            <source type="image/jpeg" srcset="../../nc_assets/img/twentyone-12.jpg">
-                            <img class="picture" src="../../nc_assets/img/twentyone-12.jpg" alt="">
+                            <source type="image/webp" srcset="../../assets/img/twentyone-12.webp">
+                            <source type="image/jpeg" srcset="../../assets/img/twentyone-12.jpg">
+                            <img class="picture" src="../../assets/img/twentyone-12.jpg" alt="">
                         </picture>
                     </div>
                     <div class="col-6 col-md-7 d-flex justify-content-center align-items-center">
@@ -77,9 +77,9 @@
                     </div>
                     <div class="col-6 col-md-5 row justify-content-center">
                         <picture>
-                            <source type="image/webp" srcset="../../nc_assets/img/twentyone-game.webp">
-                            <source type="image/jpeg" srcset="../../nc_assets/img/twentyone-game.jpg">
-                            <img class="picture" src="../../nc_assets/img/twentyone-game.jpg" alt="">
+                            <source type="image/webp" srcset="../../assets/img/twentyone-game.webp">
+                            <source type="image/jpeg" srcset="../../assets/img/twentyone-game.jpg">
+                            <img class="picture" src="../../assets/img/twentyone-game.jpg" alt="">
                         </picture>
                     </div>
                 </div>
@@ -91,9 +91,9 @@
                 <div class="row">
                     <div class="col-6 col-md-5">
                         <picture>
-                            <source type="image/webp" srcset="../../nc_assets/img/twentyone-winner.webp">
-                            <source type="image/jpeg" srcset="../../nc_assets/img/twentyone-winner.jpg">
-                            <img class="picture" src="../../nc_assets/img/twentyone-winner.jpg" alt="">
+                            <source type="image/webp" srcset="../../assets/img/twentyone-winner.webp">
+                            <source type="image/jpeg" srcset="../../assets/img/twentyone-winner.jpg">
+                            <img class="picture" src="../../assets/img/twentyone-winner.jpg" alt="">
                         </picture>
                     </div>
                     <div class="col-6 col-md-7 d-flex justify-content-center align-items-center">
@@ -119,9 +119,9 @@
                     </div>
                     <div class="col-6 col-md-5 row justify-content-center">
                         <picture>
-                            <source type="image/webp" srcset="../../nc_assets/img/twentyone-home.webp">
-                            <source type="image/jpeg" srcset="../../nc_assets/img/twentyone-home.jpg">
-                            <img class="picture" src="../../nc_assets/img/twentyone-home.jpg" alt="">
+                            <source type="image/webp" srcset="../../assets/img/twentyone-home.webp">
+                            <source type="image/jpeg" srcset="../../assets/img/twentyone-home.jpg">
+                            <img class="picture" src="../../assets/img/twentyone-home.jpg" alt="">
                         </picture>
                     </div>
                 </div>
@@ -182,9 +182,9 @@
 
     </div>
 
-    <?php include "../../nc_assets/php/footer.php"; ?>
+    <?php include "../../assets/php/footer.php"; ?>
 
-    <script src="../../nc_assets/js/main.js"></script>
+    <script src="../../assets/js/main.js"></script>
 </body>
 
 </html>

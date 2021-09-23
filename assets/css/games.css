@@ -1,0 +1,66 @@
+.section-header {
+  height: 60vh;
+  padding-top: 50px;
+}
+
+.header-container {
+  position: relative;
+  background: linear-gradient(45deg, #b993d6, #8ca6db);
+}
+
+.heading {
+  color: var(--my_light);
+}
+
+.holder {
+  position: relative;
+  background-color: var(--my_light);
+  border-radius: 20px;
+  color: var(--my_dark);
+  padding-top: 40px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+  margin-bottom: 50px;
+}
+
+.games-bg {
+  background-color: var(--my_light);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.picture-games {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 20px;
+}
+
+.bg-1{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  background: linear-gradient(45deg, #b993d6, #8ca6db);
+}
+
+.bg-2{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2;
+  background-color: var(--my_light);
+  transition: background-color 1s ease;
+}
+
+.color-white {
+  background-color: var(--my_light);
+}
+
+.color-transparent {
+  background-color: transparent;
+}
+
+#speedclicker{
+  box-shadow: #00a7e6 0px 0px 0px 3px;
+}

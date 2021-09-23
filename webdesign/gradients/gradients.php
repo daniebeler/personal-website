@@ -7,17 +7,17 @@
     <meta name="description" content="Create and discover beautiful gradients.">
     <meta name="author" content="Daniel Hiebeler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/webp" href="../../nc_assets/img/logo.webp">
+    <link rel="icon" type="image/webp" href="../../assets/img/logo.webp">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/classic.min.css" />
-    <link rel="stylesheet" href="../../nc_assets/css/general.css">
-    <link rel="stylesheet" href="../../nc_assets/css/gradients.css">
+    <link rel="stylesheet" href="../../assets/css/general.css">
+    <link rel="stylesheet" href="../../assets/css/gradients.css">
 </head>
 
 <body>
 
-    <?php include "../../nc_assets/php/navbar.php"; ?>
+    <?php include "../../assets/php/navbar.php"; ?>
 
     <section class="d-md-flex h-md-100 align-items-center first-holder">
 
@@ -122,7 +122,7 @@
                     </p </div>
                 </div>
             </div>
-    </section> <?php include "../../nc_assets/php/footer.php"; ?> <script src="../../nc_assets/js/main.js">
+    </section> <?php include "../../assets/php/footer.php"; ?> <script src="../../assets/js/main.js">
     </script>
     <script src="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/pickr.min.js"></script>
     <script>

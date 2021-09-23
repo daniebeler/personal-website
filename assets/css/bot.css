@@ -1,0 +1,137 @@
+/*----------------------------------------*/
+/*  Chatbot
+/*----------------------------------------*/
+
+
+.ulcss {
+    list-style: none;
+    display: block;
+    height: 100%;
+    overflow-y: auto;
+    padding-left: 0;
+}
+
+    .ulcss::-webkit-scrollbar {
+        background-color: transparent;
+        width: 0;
+    }
+
+
+    .ulcss li {
+        clear: both;
+        padding: 5px;
+        border-radius: 30px;
+    }
+
+.txtbot {
+    float: left;
+    background: #FFF;
+    border-bottom-left-radius: 5px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+    color: rgb(11, 161, 226);
+}
+
+.btnbot {
+    float: left;
+    background: whitesmoke;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 3px solid rgb(11, 161, 226);
+    border-radius: 10px;
+}
+
+    .btnbot:hover {
+        cursor: pointer;
+    }
+
+.txtuser {
+    float: right;
+    color: #fff;
+    background: rgb(11, 161, 226);
+    border-bottom-right-radius: 5px;
+    margin-right: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#div-input {
+    position: relative;
+}
+
+#input {
+    padding: 10px;
+    border: none;
+    outline: 0;
+    float: left;
+    font-size: 20px;
+    color: #0078ff;
+    background-color: rgba(100, 100, 100, 0);
+}
+
+placeholder {
+    color: #0078ff;
+    font-size: 20px;
+}
+
+#imgBot {
+    height: 35px;
+    width: 35px;
+}
+
+#div-bot {
+    position: fixed;
+    display: none;
+    bottom: 20px;
+    right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 60%;
+    flex-direction: column;
+    z-index: 100;
+    border-radius: 10px;
+    box-shadow: 0 0 10px grey;
+    background-color: rgba(100, 100, 100, 0.1);
+}
+
+#div-bot-topbar {
+    height: 50px;
+    width: 100%;
+    position: relative;
+}
+
+#div-chat {
+    height: calc(100% - 100px);
+    margin-top: 0px;
+    bottom: 0px;
+    position: relative;
+}
+
+#btn-close-bot {
+    float: right;
+    margin-top: 10px;
+    outline: none;
+    color: rgb(11, 161, 226);
+    font-size: 24px;
+    background: none;
+    border: none;
+}
+
+#btn-open-bot {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ac7ffb;
+    border: 3px solid whitesmoke;
+    border-radius: 100px;
+    outline: none;
+    height: 60px;
+    width: 60px;
+    z-index: 100;
+}
+
+#btn-open-bot:hover{
+    cursor: pointer;
+    background-color: #306bf2;
+}
