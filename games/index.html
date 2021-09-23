@@ -34,7 +34,8 @@
                 </div>
             </div>
         </div>
-        <?php include "../nc_assets/php/wave.php"; ?>
+
+        <div id="load-wave"></div>
     </section>
 
     <section class="games-bg panel" data-color="white">
@@ -283,9 +284,12 @@
 
     <script>
         AOS.init();
+        $(document).ready(function () {
+            $('#load-header').load('../nc_assets/php/navbar.html');
+            $('#load-footer').load('../nc_assets/php/footer.html');
+            $('#load-wave').load('../nc_assets/php/wave.html');
+        });
     </script>
-
-
 </body>
 
 </html>

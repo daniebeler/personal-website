@@ -1,9 +1,3 @@
-$(document).ready(function(){
-
-  $('#load-header').load('/nc_assets/php/navbar.html');
-  $('#load-footer').load('/nc_assets/php/footer.html');     
-
-});
 
 
 /*----------------------------

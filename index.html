@@ -62,8 +62,7 @@
                         </p>
                         <div class="row pt-3">
                             <div class="d-flex col justify-content-center">
-                                <a href="https://daniebeler.com/about" class="btn_general btn_light">More
-                                    Information</a>
+                                <a href="about" class="btn_general btn_light">More Information</a>
                             </div>
                         </div>
                     </div>
@@ -165,7 +164,7 @@
                     <img class="img" src="nc_assets/img/rocket.webp" alt="Icon of Daily Tasks">
                     <div class="m-3 img-overlay img-rocket d-flex align-items-center justify-content-center"
                         onclick="location.href='https://play.google.com/store/apps/dev?id=4896585242816990690&gl=AT';">
-                        <div class="overlay-txt">Rocket Man</div>
+                        <div class="overlay-txt">Risky Rocket</div>
                     </div>
                 </div>
 
@@ -204,6 +203,11 @@
 
     <script>
         AOS.init();
+
+        $(document).ready(function () {
+            $('#load-header').load('nc_assets/php/navbar.html');
+            $('#load-footer').load('nc_assets/php/footer.html');
+        });
     </script>
 </body>
 
