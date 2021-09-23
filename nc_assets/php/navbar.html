@@ -37,9 +37,8 @@
     </div>
 </nav>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript">
-    $(window).scroll(function() {
+    $(window).scroll(function () {
         var scroll = $(window).scrollTop(),
             dh = $(document).height(),
             wh = $(window).height();
@@ -51,7 +50,7 @@
     var path = window.location.pathname;
     var filename = path.substring(path.lastIndexOf('/') + 1);
 
-    $(document).ready(function() {
+    $(document).ready(function () {
 
         $('.icon-header').css('color', '#fff')
 
@@ -73,7 +72,7 @@
             $('.progressbar').css('background', 'linear-gradient(90deg,#FFDD00,#FBB034)');
         }
 
-        $(window).scroll(function() {
+        $(window).scroll(function () {
             if ($(window).scrollTop() > 1) {
                 $('.navbar-holder').addClass('scrolled-navbar');
 
