@@ -1,9 +1,0 @@
-.heading-color{
-    color: #ffb702;
-}
-
-@media (min-width: 768px){
-  .heading-color {
-    color:#ffb702;
-    }  
-}

@@ -1,9 +1,0 @@
-.heading-color{
-    color: #fc221b;
-}
-
-@media (min-width: 768px){
-  .heading-color {
-    color:#fc221b;
-    }  
-}
