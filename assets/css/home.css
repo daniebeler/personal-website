@@ -194,6 +194,14 @@ body {
   background-color: #212121;
 }
 
+.img-ideaoverflow {
+  background-color: #0cc87e;
+}
+
+.img-dine {
+  background-color: #dfcfb0;
+}
+
 .img-overlay:hover {
   opacity: 1;
   cursor: pointer;
